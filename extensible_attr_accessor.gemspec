@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["magnesium.oxide.play@gmail.com"]
 
   spec.summary       = %q{attr_xxx extension accepting blocks.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/jkr2255/extensible_attr_accessor"
   spec.license       = "MIT"
 
 
